@@ -50,12 +50,8 @@ Data cleaning and preprocessing techniques were applied to handle missing values
 
 ### **Data Analysis -**
 
-1. Exploratory Data Analysis (EDA) -
-    - EDA techniques, including descriptive statistics, data visualization (e.g., histograms, box plots, scatter plots), and correlation analysis, were employed to gain initial insights into the data and identify potential patterns or relationships.
-
-2. Statistical Analysis -
-    - Hypothesis testing and inferential statistical methods, such as t-tests, ANOVA, and regression analyses, were conducted to assess the significance of observed differences and relationships between variables.
-    - Multivariate analysis techniques, like factor analysis and cluster analysis, were utilized to uncover underlying structures and segment the respondents based on their characteristics and experiences.
+1. Data Analysis (EDA) -
+    - EDA techniques, including descriptive statistics, data visualization (e.g., histograms, box plots, scatter plots), and correlation analysis, were employed to gain insights into the data and identify patterns or relationships.
 
 ### **Visualization and Reporting -**
 
@@ -65,7 +61,7 @@ Various chart types, including bar charts, line charts, scatter plots, and maps,
 
 2. Reporting and Presentation -
     - A comprehensive report was prepared, documenting the project's objectives, methodology, key findings, and recommendations.
-    - The report incorporated relevant data visualizations, statistical analyses, and interpretations to support the insights and conclusions.
+    - The report incorporated relevant data visualizations, poster and interpretations to support the insights and recommendations.
     - Presentations were developed to effectively communicate the project's outcomes to stakeholders, including university administrators, career center professionals, and representatives from Tiger Careers & Consulting.
 
 
