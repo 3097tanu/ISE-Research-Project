@@ -48,18 +48,18 @@ Data cleaning and preprocessing techniques were applied to handle missing values
     - Categorical variables were encoded, and text responses were processed using natural language processing techniques to extract relevant information.
     - Derived variables were created based on the research objectives and hypotheses, facilitating deeper analysis.
 
-### **Data Analysis -**
+### **Data Analysis and Visualization-**
 
-1. Data Analysis (EDA) -
+1. Data Analysis -
     - EDA techniques, including descriptive statistics, data visualization (e.g., histograms, box plots, scatter plots), and correlation analysis, were employed to gain insights into the data and identify patterns or relationships.
 
-### **Visualization and Reporting -**
-
-1. Data Visualization -
+2. Data Visualization -
     - Tableau was used as the primary data visualization tool to create interactive and visually appealing dashboards and reports.
 Various chart types, including bar charts, line charts, scatter plots, and maps, were employed to effectively communicate the findings and insights derived from the data analysis.
 
-2. Reporting and Presentation -
+### **Reporting and Communicating Insights-**
+
+1. Reporting and Presentation -
     - A comprehensive report was prepared, documenting the project's objectives, methodology, key findings, and recommendations.
     - The report incorporated relevant data visualizations, poster and interpretations to support the insights and recommendations.
     - Presentations were developed to effectively communicate the project's outcomes to stakeholders, including university administrators, career center professionals, and representatives from Tiger Careers & Consulting.
