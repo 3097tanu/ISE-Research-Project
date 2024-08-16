@@ -64,6 +64,7 @@ Various chart types, including bar charts, line charts, scatter plots, and maps,
     - The report incorporated relevant data visualizations, poster and interpretations to support the insights and recommendations.
     - Presentations were developed to effectively communicate the project's outcomes to stakeholders, including university administrators, career center professionals, and representatives from Tiger Careers & Consulting.
     - Our project gained professional recognition at **the MBA Career Services and Employer Alliance Global Conference (MBA CSEA)** in Portland, OR, in June 2024, where our insights and recommendations were exhibited to a broader audience of industry professionals. This showcase played a significant role in promoting best practices for supporting international students, influencing career services strategies across multiple institutions.
+    - Our project was featured in a poster presentation at the Management Science & Systems Department Annual Experiential Exposition in May 2024 at the University at Buffalo, where it was awarded 1st place, underscoring its excellence and impact. (https://www.linkedin.com/posts/ubschoolofmgt_ubmgt-ubuffalo-activity-7203417624846745601-f6Mk?utm_source=share&utm_medium=member_desktop)
 
 
 ## Insights and Recommendations
