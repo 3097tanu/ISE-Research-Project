@@ -63,7 +63,7 @@ Various chart types, including bar charts, line charts, scatter plots, and maps,
     - A comprehensive report was prepared, documenting the project's objectives, methodology, key findings, and recommendations.
     - The report incorporated relevant data visualizations, poster and interpretations to support the insights and recommendations.
     - Presentations were developed to effectively communicate the project's outcomes to stakeholders, including university administrators, career center professionals, and representatives from Tiger Careers & Consulting.
-    - Our project gained professional recognition at the MBA Career Services and Employer Alliance Global Conference in Portland, OR, where our insights and recommendations were showcased to a broader audience of industry professionals. This showcase played a significant role in advancing best practices for supporting international students, potentially influencing career services strategies across multiple institutions.
+    - Our project gained professional recognition at **the MBA Career Services and Employer Alliance Global Conference (MBA CSEA)** in Portland, OR, in June 2024, where our insights and recommendations were exhibited to a broader audience of industry professionals. This showcase played a significant role in promoting best practices for supporting international students, influencing career services strategies across multiple institutions.
 
 
 ## Insights
