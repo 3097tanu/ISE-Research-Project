@@ -66,11 +66,21 @@ Various chart types, including bar charts, line charts, scatter plots, and maps,
     - Our project gained professional recognition at **the MBA Career Services and Employer Alliance Global Conference (MBA CSEA)** in Portland, OR, in June 2024, where our insights and recommendations were exhibited to a broader audience of industry professionals. This showcase played a significant role in promoting best practices for supporting international students, influencing career services strategies across multiple institutions.
 
 
-## Insights
-- 50% of schools reported that international students were less engaged in career services activities than domestic students
-- 64% of international students lack clarity on what career roles are in their future
-- 
+## Insights and Recommendations
+1. There is a significant disparity in engagement levels between international and domestic students, indicating that international students may face unique barriers or challenges.
 
+2. While international graduate business students are generally aware of their career interests, they often lack clarity on how these interests translate into specific career paths and future options. Enhancing their understanding of potential career paths early in their academic journey could improve their preparation and increase their chances of success.
 
-## Recommendations
+3. While career centers universally provide standard services like resume writing and interview preparation, the real value for international students lies in tailored support that addresses their unique needs, such as U.S.-specific advice and specialized networking events. The feedback from international students suggests that they perceive significant benefit in career services that are specifically designed to cater to their distinct challenges and experiences.
+
+4. While the university's International Student Services (ISS) office is the primary source for visa-related questions, there is a gap in their offerings, such as a lack of information on specific visas like the O1. To address this, the Career Centre provides alternative support. However, this highlights the need for increased collaboration with ISS.
+
+5. International students prioritize career services that offer support for securing F1-friendly internships and job opportunities, including access to information on visa petitioning companies and lists of recent graduates hired by these companies. Additionally, they value resources that enhance their understanding of CPT/OPT and immigration processes. For career centers looking to enhance their offerings, addressing these specific needs could significantly improve their support for international students.
+
+6. While career services help international students secure jobs, there is a gap in supporting their ongoing success in the workplace. Enhancing career services to focus on developing interpersonal and professional skills—such as communication, self-management, and seeking mentorship—could address this skills gap and make international students not only employable but also more promotable.
+
+7. While language barriers are less significant, contrary to what was anticipated, major challenges faced by international students include limited networking opportunities, insufficient mentorship, lack of access to resources, and cultural differences.
+
+8. The primary barriers to student engagement with career resources and services are limited time and lack of awareness, affecting a significant portion of students. Financial constraints, lack of events, and transportation issues also contribute, while language barriers are a less significant concern.
+
 
